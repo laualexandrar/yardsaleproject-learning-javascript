@@ -132,3 +132,6 @@ renderProducts(productList);
   </figure>
 </div>
 </div> */
+
+
+//class 11, 7, 13, 6, 12
